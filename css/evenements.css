@@ -1,0 +1,17 @@
+    article{
+        background: black;
+        text-align: center;
+        border: 1px solid black ;
+        margin: 1% 20% 1% 20%;
+        padding: 1%;
+    }
+    article p{
+        color: white;
+    }
+    summary{
+        color: white    ;
+    }
+    article img{
+        float: left;
+    
+    }

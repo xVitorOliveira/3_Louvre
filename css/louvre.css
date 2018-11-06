@@ -1,0 +1,15 @@
+fieldset.intro{
+        display: block;
+}
+    
+.intro p{
+        width:80%;
+        float: left;  
+}
+
+    
+.intro img{
+        border:solid 1px red;
+        width:20%;
+        height:150px;
+}
