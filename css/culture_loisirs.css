@@ -1,22 +1,11 @@
-p{
-    font-size: 1.2em;
+*{
+    padding:0;
+    margin:0
 }
 
-body{
-  background:url(image/back-image.jpg);
-  background-position: center;
-  background-attachment: fixed;
-}
-
-main{
-  background:rgba(173,139,79,0.875);
-  width:75%;
-  margin:auto;
-  padding: 0.5%;
-}
 /*---------------------------------------MENU---------------------------------------------*/
 div#culture{
-    background: url('image/sepa.png') repeat-x bottom;
+    background: url('imgs/l2.jpg') repeat-x bottom;
     background-position:top;
     height:200px;
     text-align:center;
@@ -133,9 +122,4 @@ fieldset{
 
 /*---------------------------------------------PIED DE PAGE--------------------------------*/
 
-footer
-{
-    text-align: center;
-    background:  url('image/ico_top.png') no-repeat top center, url('image/separateur.png') repeat-x top, url('image/ombre.png') repeat-x top;
-    padding-top: 25px;
-}
+

@@ -1,36 +1,54 @@
-header {    
-    z-index: 1; 
-    position: fixed;
+*{
+    padding:0;
+    margin:0
+}
+
+body{
+    background-position: center;
+    background-attachment: fixed;
+    padding-bottom: 6rem;
+    min-height: 100%;
+}
+
+
+main{
+    background:rgba(173,139,79,0.875);
+    width:75%;
+    margin:auto;
+    margin-top: 5%;
+    padding: 0.5%;
+}
+
+header,nav,ul{
+    z-index:1;
+    position:fixed;
+    padding: 0;
+    margin: 0;
+    top: 0;
     width: 100%;
+}
+
+header {    
 	background: url(../imgs/l4.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
-
-nav,ul{
-    width: 100%; 
-    padding: 0;
-    margin: 0;
-}
-
-#home{
-    padding: 0 13% 0 13%;
-}
-
 
 header nav ul li {
     float: left;
     background: rgba(0,0,0,0.7);
     display: inline-block;
     text-align: center;
-    padding: 0 3% 0 3%;
+    padding-right: 3%;
+    padding-left: 3%;
 }
 
 header nav ul li:hover{
     background:none;
     font-style: bold;
     transform: scale(1.2);
-    padding: 0 3% 0 3%;
+    padding-right: 3%;
+    padding-left: 3%;
 }
 
 header nav ul li:hover > a {
@@ -41,25 +59,36 @@ header nav ul li a {
 	text-decoration: none;
     padding: 25px 20px;
     color: #fff;
-    margin: 0;
     display: inline-block;
     text-transform: uppercase;
     font-family: 'Quicksand', sans-serif;
-    font-size: 1rem;
 }
 
 header nav ul li a:focus {
 	outline: none;
 }
 
-footer{
-        text-align: center;
-        margin: 0;
-        padding: 0;
-        clear: both;
-        left: 0;
-        bottom: 0;
-        width: 100%;
-        background: 
+#home{
+    padding: 0 13% 0 13%;
 }
+
+footer{
+    text-align: center;
+    bottom: 0;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+}
+
+/*footer
+{
+    text-align: center;
+    background:  url('image/ico_top.png') no-repeat top center, url('image/separateur.png') repeat-x top, url('image/ombre.png') repeat-x top;
+    padding-top: 25px;
+}*/
+
+
+
 
