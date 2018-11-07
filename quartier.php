@@ -1,25 +1,11 @@
 <!DOCTYPE html>
 <html lang="fr">
     <head>
-        <meta charset="utf-8">
         <title>Quartier</title>
-        <link rel="icon"       href="imgs/logo.png">
-        <link rel="stylesheet" href="css/style.css">
-        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+        <?php include"inc/header.inc.php";?>
     </head>
     <body>
-        <header>
-            <nav>
-                <ul>                
-                    <li id="home"><a href="index.html" title="3Louvre" >3Louvre</a></li>
-                    <li><a href="quartier.html"        title="Quartier">Quartier</a></li> <!-- vitor -->
-                    <li><a href="culture_loisirs.html" title="Culture & Loisirs">Culture</a></li> <!-- Alexandre tout autor du quartier-->
-                    <li><a href="infos_pratiques.html" title="Infos Pratiques">Infos</a></li> <!-- Alexis Autour et localization -->
-                    <li><a href="evenements.html"      title="Evenements">Evenements</a></li> <!-- Lecatelier -->
-                    <li><a href="louvre.html"          title="Louvre">Louvre</a></li> <!-- Jonathan -->
-                </ul>
-            </nav>
-        </header>
+        <?php include"inc/nav.inc.php";?>
         <main>
             <h1>
                 Quartier du Louvre
@@ -46,11 +32,6 @@
             </p>
             <img src="imgs/l1.jpg">
         </main>
-        <footer>
-            <a href="mailto:nicolas@yopmail.com" title="Contactez Moi">Contactez Nous</a>
-            | 2018 | © 3Louvre |
-            <a href="mentions.html"              title="Acceder au mentions légales">Mentions légales</a>
-        </footer>
-
+        <?php include"inc/footer.inc.php";?>
     </body>
 </html>
