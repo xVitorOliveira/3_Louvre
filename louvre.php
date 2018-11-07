@@ -1,27 +1,12 @@
 <!DOCTYPE html>
 <html lang="fr">
     <head>
-        <meta charset="utf-8">
         <title>3Louvre</title>
-        <link rel="icon"       href="imgs/logo.png">
         <link rel="stylesheet" href="css/louvre.css">
-        <link rel="stylesheet" href="css/index_style.css">
-        <link rel="stylesheet" href="css/style.css">
-        <link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
+         <?php include"inc/header.inc.php";?>
     </head>
     <body>
-        <header>
-            <nav>
-                <ul>                
-                    <li id="home"><a href="index.html" title="3Louvre" >3Louvre</a></li>
-                    <li><a href="quartier.html"        title="Quartier">Quartier</a></li> <!-- vitor -->
-                    <li><a href="culture_loisirs.html" title="Culture & Loisirs">Culture</a></li> <!-- Alexandre tout autor du quartier-->
-                    <li><a href="infos_pratiques.html" title="Infos Pratiques">Infos</a></li> <!-- Alexis Autour et localization -->
-                    <li><a href="evenements.html"      title="Evenements">Evenements</a></li> <!-- Lecatelier -->
-                    <li><a href="louvre.html"          title="Louvre">Louvre</a></li> <!-- Jonathan -->
-                </ul>
-            </nav>
-        </header>
+        <?php include"inc/nav.inc.php";?>
         <main id ="LouvreMain">
 		<fieldset class ="intro">
 			<legend> Intro </legend>
@@ -38,13 +23,14 @@
 			<h3>Exemple nouveaux titre</h3>
 			
 					<article>
-							<span> <p id="p1" class="para para1 par2 para3 para4>ngrejnerngrnengreongnengerongoengeingoinein</p>
+							<span> <p id="p1" class="para para1 par2 para3 para4">ngrejnerngrnengreongnengerongoengeingoinein</p>
 							 <p>gizigirzbgzuezooizehoehhfzoefhoezhfoiezhofihezohfzeoihfoieh
 							 nfzenfoezfozeofoeznfonzoinezoniefoznfezinefoinz
 							 fzjfnzifheinhvizhihvni'ht'inihiv,ihvhnei,hghg
 							 gjbrvryvrbiebzibebzibcibiebizcbiebcicbzibez
 							 czkjkjbcjhbzeuhzbchzcbczbczuhbcz</p></span>
-							 <p id="p2">gizigirzbgzuezooizehoehhfzoefhoezhfoiezhofihezohfzeoihfoieh
+							 <p id="p2">
+                            gizigirzbgzuezooizehoehhfzoefhoezhfoiezhofihezohfzeoihfoieh
 							 nfzenfoezfozeofoeznfonzoinezoniefoznfezinefoinz
 							 fzjfnzifheinhvizhihvni'ht'inihiv,ihvhnei,hghg
 							 gjbrvryvrbiebzibebzibcibiebizcbiebcicbzibez
@@ -95,7 +81,7 @@
 			<h3>Exemple nouveaux titre</h3>
 			
 					<article>
-							<span> <p id="p1" class="para para1 par2 para3 para4>ngrejnerngrnengreongnengerongoengeingoinein</p>
+							<span> <p id="p1" class="para para1 par2 para3 para4">ngrejnerngrnengreongnengerongoengeingoinein</p>
 							 <p>gizigirzbgzuezooizehoehhfzoefhoezhfoiezhofihezohfzeoihfoieh
 							 nfzenfoezfozeofoeznfonzoinezoniefoznfezinefoinz
 							 fzjfnzifheinhvizhihvni'ht'inihiv,ihvhnei,hghg
@@ -111,14 +97,7 @@
 		</div>
 		
         </main>
-       
-        <footer>
-            <a href="mailto:nicolas@yopmail.com" title="Contactez Moi">Contactez moi</a>
-            | © | Nom du Site |
-            <a href="#top"                       title="Retour en haut de la page">Retour en haut</a>
-            |
-            <a href="mentions.html"              title="Acceder au mentions légales">Mentions légales</a>
-        </footer>
+        <?php include"inc/footer.inc.php";?>
     </body>
 </html>
 

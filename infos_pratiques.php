@@ -1,27 +1,12 @@
 <!DOCTYPE html>
 <html>
 	<head>
-        <meta charset="utf-8">
         <title>Infos Pratiques</title>
-        <meta name="description" content="3.Louvre">
-        <link rel="icon"       href="imgs/logo.png">
         <link rel="stylesheet" href="css/culture_loisirs.css">
-        <link rel="stylesheet" href="css/style.css">
-        <link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
+        <?php include"inc/header.inc.php";?>
     </head>
 	<body>
-		<header>
-            <nav>
-                <ul>                
-                    <li id="home"><a href="index.html" title="3Louvre" >3Louvre</a></li>
-                    <li><a href="quartier.html"        title="Quartier">Quartier</a></li> <!-- vitor -->
-                    <li><a href="culture_loisirs.html" title="Culture & Loisirs">Culture</a></li> <!-- Alexandre tout autor du quartier-->
-                    <li><a href="infos_pratiques.html" title="Infos Pratiques">Infos</a></li> <!-- Alexis Autour et localization -->
-                    <li><a href="evenements.html"      title="Evenements">Evenements</a></li> <!-- Lecatelier -->
-                    <li><a href="louvre.html"          title="Louvre">Louvre</a></li> <!-- Jonathan -->
-                </ul>
-            </nav>
-        </header>
+        <?php include"inc/nav.inc.php";?>
         <main>
         	<article>
 	        	<h2>Hôtels:</h2>
@@ -291,12 +276,6 @@
 			</script>
 			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAlYIC717CpZtTDpBPcDvlG-D9RLTIRMZo&callback=myMap"></script>
         </main>
-        <footer>
-            <a href="mailto:nicolas@yopmail.com" title="Contactez Moi">Contactez moi</a>
-            | © | Nom du Site |
-            <a href="#top"                       title="Retour en haut de la page">Retour en haut</a>
-            |
-            <a href="mentions.html"              title="Acceder au mentions légales">Mentions légales</a>
-        </footer>
+        <?php include"inc/footer.inc.php";?>
 	</body>
 </html>
