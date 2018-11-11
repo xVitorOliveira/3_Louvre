@@ -7,7 +7,7 @@
 div#culture{
     background: url('imgs/l2.jpg') repeat-x bottom;
     background-position:top;
-    height:200px;
+    height:50px;
     text-align:center;
     padding:2%;
 }
@@ -24,22 +24,23 @@ div#culture a{
     background-size:100%;
     border-radius: 20px;
     max-width: 400px;
+    
 }
 
 a#visite{
-    background-image:url(image/louvre1.jpg); 
+    background-image:url(imgs/culture_et_loisir/louvre1.jpg); 
 }
 
 a#balades{
-    background-image:url(image/louvre2.jpg);
+    background-image:url(imgs/culture_et_loisir/louvre2.jpg);
 }
 
 a#activite{
-    background-image:url(image/louvre3.jpg);
+    background-image:url(imgs/culture_et_loisir/louvre3.jpg);
 }
 
 div#culture a:hover{
-    color:maroon;
+    color:blue;
 }
 
 /*----------------------------MAIN-----------------------------*/
@@ -108,7 +109,7 @@ summary::-webkit-details-marker {
 }
 
 summary::before { /*redimensionner l'image*/
-  background: url(image/picto-info.png);
+  background: url(imgs/culture_et_loisir/picto-info.png);
   height:50px;
   width: 50px;
   content:" ";

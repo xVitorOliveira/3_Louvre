@@ -16,6 +16,8 @@ h2 {
 
 body{
     background:url(../imgs/back-image.jpg);
+    background-attachment: fixed;
+    background-position: center;
     padding-bottom: 6rem;
     min-height: 100%;
 }
@@ -49,8 +51,8 @@ header nav ul li {
     background: rgba(0,0,0,0.7);
     display: inline-block;
     text-align: center;
-    padding-right: 3%;
-    padding-left: 3%;
+    padding-right: 2%;
+    padding-left: 2%;
 }
 
 header nav ul li:hover{
@@ -85,7 +87,7 @@ header nav ul li a:focus {
 footer{
     text-align: center;
     bottom: 0;
-    position: absolute;
+    position: relative;
     right: 0;
     bottom: 0;
     left: 0;

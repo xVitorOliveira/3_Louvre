@@ -33,7 +33,7 @@
                             </fieldset>
                         </details>
                     </div>
-                    <a class="photo" href="image/louvre1.jpg"><img src="image/louvre1.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
+                    <a class="photo" href="imgs/culture_et_loisir/louvre1.jpg"><img src="imgs/culture_et_loisir/louvre1.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
                 </div>
                 <div class="clearfix"></div>
                 <div>
@@ -56,7 +56,7 @@
                             </fieldset>
                         </details>
                     </div>
-                    <a class="photo" href="image/jardin.jpg"><img src="image/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
+                    <a class="photo" href="imgs/culture_et_loisir/jardin.jpg"><img src="imgs/culture_et_loisir/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
                 </div>    
                 <div class="clearfix"></div>
                 <div>
@@ -78,7 +78,7 @@
                             </fieldset>
                         </details>
                     </div>
-                    <a class="photo" href="image/jardin.jpg"><img src="image/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
+                    <a class="photo" href="imgs/culture_et_loisir/jardin.jpg"><img src="imgs/culture_et_loisir/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
                 </div>    
                 <div class="clearfix"></div>
                 <div>
@@ -100,7 +100,7 @@
                             </fieldset>
                         </details>
                     </div>
-                    <a class="photo" href="image/jardin.jpg"><img src="image/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
+                    <a class="photo" href="imgs/culture_et_loisir/jardin.jpg"><img src="imgs/culture_et_loisir/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
                 </div>    
                 <div class="clearfix"></div>
                 
@@ -120,7 +120,7 @@
                             </fieldset>
                         </details>
                     </div>
-                    <a class="photo" href="image/jardin.jpg"><img src="image/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
+                    <a class="photo" href="imgs/culture_et_loisir/jardin.jpg"><img src="imgs/culture_et_loisir/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
                 </div>    
                 <div class="clearfix"></div>
                 <div>
@@ -138,7 +138,7 @@
                             </fieldset>
                         </details>
                     </div>
-                    <a class="photo" href="image/jardin.jpg"><img src="image/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
+                    <a class="photo" href="imgs/culture_et_loisir/jardin.jpg"><img src="imgs/culture_et_loisir/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
                 </div>    
                 <div class="clearfix"></div>
                 <div>
@@ -156,7 +156,7 @@
                             </fieldset>
                         </details>
                     </div>
-                    <a class="photo" href="image/jardin.jpg"><img src="image/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
+                    <a class="photo" href="imgs/culture_et_loisir/jardin.jpg"><img src="imgs/culture_et_loisir/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
                 </div>    
                 <div class="clearfix"></div>
                 <div>
@@ -173,7 +173,7 @@
                             </fieldset>
                         </details>
                     </div>
-                    <a class="photo" href="image/jardin.jpg"><img src="image/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
+                    <a class="photo" href="imgs/culture_et_loisir/jardin.jpg"><img src="imgs/culture_et_loisir/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
                 </div>    
                 <div class="clearfix"></div>
                 
@@ -192,7 +192,7 @@
                             </fieldset>
                         </details>
                     </div>
-                    <a class="photo" href="image/jardin.jpg"><img src="image/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
+                    <a class="photo" href="imgs/culture_et_loisir/jardin.jpg"><img src="imgs/culture_et_loisir/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
                 </div>    
                 <div class="clearfix"></div>
                 <div>
@@ -211,7 +211,7 @@
                             </fieldset>
                         </details>
                     </div>
-                    <a class="photo" href="image/jardin.jpg"><img src="image/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
+                    <a class="photo" href="imgs/culture_et_loisir/jardin.jpg"><img src="imgs/culture_et_loisir/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
                 </div>    
                 <div class="clearfix"></div>
                 <div>
@@ -228,7 +228,7 @@
                             </fieldset>
                         </details>
                     </div>
-                    <a class="photo" href="image/jardin.jpg"><img src="image/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
+                    <a class="photo" href="imgs/culture_et_loisir/jardin.jpg"><img src="imgs/culture_et_loisir/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
                 </div>    
                 <div class="clearfix"></div>
                 <div>
@@ -245,7 +245,7 @@
                             </fieldset>
                         </details>
                     </div>
-                    <a class="photo" href="image/jardin.jpg"><img src="image/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
+                    <a class="photo" href="imgs/culture_et_loisir/jardin.jpg"><img src="imgs/culture_et_loisir/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
                 </div>    
                 <div class="clearfix"></div>
                 <div>
@@ -262,7 +262,7 @@
                             </fieldset>
                         </details>
                     </div>
-                    <a class="photo" href="image/jardin.jpg"><img src="image/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
+                    <a class="photo" href="imgs/culture_et_loisir/jardin.jpg"><img src="imgs/culture_et_loisir/jardin.jpg" alt="alternative text" title="Cliquer pour agrandir"></a>
                 </div>    
                 <div class="clearfix"></div>
             </article>
