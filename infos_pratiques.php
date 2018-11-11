@@ -2,12 +2,12 @@
 <html>
 	<head>
         <title>Infos Pratiques</title>
-        <link rel="stylesheet" href="css/culture_loisirs.css">
         <?php include"inc/header.inc.php";?>
+        <link rel="stylesheet" href="css/infos_pratiques.css">
     </head>
 	<body>
         <?php include"inc/nav.inc.php";?>
-        <main>
+        <main id="infos_pratiques">
         	<article>
 	        	<h2>Hôtels:</h2>
         		<div class="conteneur">
@@ -243,7 +243,7 @@
         	<aside>
         		<h2>Maps</h2>
         		<div id="map"></div>
-        		<div id="info"></div>
+        		<!---<div id="info"></div>--->
         	</aside>
     		<script>
 				function myMap() {
