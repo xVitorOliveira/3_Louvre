@@ -28,57 +28,36 @@ main:not(#infos_pratiques){
     padding: 0.5%;
 }
 
-header,nav,ul{
-    z-index:1;
-    position:fixed;
-    padding: 0;
+nav{
+    position: fixed;
+    z-index: 1;
     margin: 0;
     top: 0;
     width: 100%;
-    background:url(../imgs/l4.jpg);
-    background-attachment: fixed;
-}
-
-header {    
-	
-}
-
-header nav ul li {
-    float: left;
-    background: rgba(0,0,0,0.7);
-    display: inline-block;
     text-align: center;
-    padding-right: 3%;
-    padding-left: 3%;
+    background:url(../imgs/l4.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
-header nav ul li:hover{
-    background:none;
-    font-style: bold;
-    transform: scale(1.2);
-    padding-right: 3%;
-    padding-left: 3%;
-}
-
-header nav ul li:hover > a {
+nav a{
+    font-size: 2.5em;
+    margin-right: 3%;
+    margin-left: 3%;
+    display: inline-block;
+    height: 100%;
+    padding: 20px 10px 20px 10px;
+    text-decoration: none;
     color: black;
 }
 
-header nav ul li a {
-	text-decoration: none;
-    padding: 25px 20px;
-    color: #fff;
-    display: inline-block;
-    text-transform: uppercase;
-    font-family: 'Quicksand', sans-serif;
+nav #home{
+    margin-right: 15%;
 }
 
-header nav ul li a:focus {
-	outline: none;
-}
-
-#home{
-    padding: 0 13% 0 13%;
+nav a:hover{
+    color: white;
+    background: rgba(0,0,0,0.7);
 }
 
 footer{
@@ -96,7 +75,3 @@ footer{
     background:  url('image/ico_top.png') no-repeat top center, url('image/separateur.png') repeat-x top, url('image/ombre.png') repeat-x top;
     padding-top: 25px;
 }*/
-
-
-
-
