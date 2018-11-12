@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <title>Evenements</title>
-    <link rel="stylesheet" href="css/evenements.css">
-    <?php include"inc/header.inc.php";?>
-</head>
+<?php include"inc/header.inc.php";?>
 <body>
     <?php include"inc/nav.inc.php";?>
     <main>

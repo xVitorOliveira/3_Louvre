@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<head>
-        <title>Infos Pratiques</title>
-        <?php include"inc/header.inc.php";?>
-        <link rel="stylesheet" href="css/infos_pratiques.css">
-    </head>
+<?php include"inc/header.inc.php";?>
 	<body>
         <?php include"inc/nav.inc.php";?>
         <main id="infos_pratiques">
