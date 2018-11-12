@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-        <title>Infos Pratiques</title>
+        <title>Quarier du Louvre</title>
 		<meta charset="utf-8">
 		<meta name="description" content="3.Louvre">
 		<link rel="icon"       href="imgs/logo.png">
@@ -25,6 +25,7 @@
 		else if ($page_name == "infos_pratiques.php")
 		{
 			echo '<link rel="stylesheet" href="css/infos_pratiques.css">';
+			echo '<script type="text/javascript" src="JS/infos_pratiques.js"></script>';
 		}
 		else if ($page_name == "evenements.php")
 		{

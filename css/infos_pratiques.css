@@ -19,10 +19,12 @@ article h3{
 article img{
 	width: 34%;
 	padding-left: 1%;
+	padding-right: 1%;
 	float: left;
 }
 
 article .conteneur{
+	border-radius: 10px;
 	background: rgba(173, 139, 79, 0.9);
 	display: inline-block;
 	margin: 1%;
@@ -30,11 +32,30 @@ article .conteneur{
 }
 
 article .desc{
+	position: relative;
 	text-align: center;
+	padding-top: 5%;
+	margin-left: 475px;
+}
+
+article .desc p{
+	padding: 2% 1% 2% 1%;
+	max-height: 145px;
 }
 
 article .clearFix{
 	clear: both;
+}
+
+hr{
+	margin-left: 1%;
+	border-color: black;
+}
+
+article .editButton{
+	position: absolute;
+	top: -20px;
+	right: 0;
 }
 
 /*-----MAPS-----*/
