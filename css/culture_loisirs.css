@@ -5,7 +5,7 @@
 
 /*---------------------------------------MENU---------------------------------------------*/
 div#culture{
-    background: url('imgs/l2.jpg') repeat-x bottom;
+    background: url(imgs/se) repeat-x bottom;
     background-position:top;
     height:50px;
     text-align:center;
@@ -28,15 +28,15 @@ div#culture a{
 }
 
 a#visite{
-    background-image:url(imgs/culture_et_loisir/louvre1.jpg); 
+    background-image:url(../imgs/culture_et_loisir/louvre1.jpg); 
 }
 
 a#balades{
-    background-image:url(imgs/culture_et_loisir/louvre2.jpg);
+    background-image:url(../imgs/culture_et_loisir/louvre2.jpg);
 }
 
 a#activite{
-    background-image:url(imgs/culture_et_loisir/louvre3.jpg);
+    background-image:url(../imgs/culture_et_loisir/louvre3.jpg);
 }
 
 div#culture a:hover{
@@ -109,7 +109,7 @@ summary::-webkit-details-marker {
 }
 
 summary::before { /*redimensionner l'image*/
-  background: url(imgs/culture_et_loisir/picto-info.png);
+  background: url(../imgs/culture_et_loisir/picto-info.png);
   height:50px;
   width: 50px;
   content:" ";
