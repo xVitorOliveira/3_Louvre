@@ -3,10 +3,10 @@
     <head>
         <title>3Louvre</title>
         <link rel="stylesheet" href="css/index_style.css">
-        <?php include"inc/header.inc.php";?>
+        <?php include"inc/header.inc.php"; ?>
     </head>
     <body>
-        <?php include"inc/nav.inc.php";?>
+        <?php include"inc/nav.inc.php"; ?>
         <main>
      		<div class="carousel">
                 <div class="carousel-inner">
@@ -42,6 +42,6 @@
                 </div>
             </div>
         </main>
-        <?php include"inc/footer.inc.php";?>
+        <?php include"inc/footer.inc.php"; ?>
     </body>
 </html>
