@@ -1,6 +1,6 @@
 @media screen and (max-width: 1200px) {
     #home{
-        padding: 0 10% 0 10%;
+    padding: 0 10% 0 10%;
     }
 }
 
@@ -10,7 +10,7 @@
 }
 
 h2, h4 {
-        font-family: 'Abril Fatface', serif;
+    font-family: 'Abril Fatface', serif;
 }
 
 h2 {
@@ -54,11 +54,8 @@ nav{
 
 header nav ul li {
     float: left;
-    background: rgba(0,0,0,0.7);
     display: inline-block;
-
     text-align: center;
-    background:url(../imgs/l4.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     padding: 1%;
@@ -78,9 +75,12 @@ nav #home{
     margin-right: 12%;
 }
 
-nav a:hover{
+nav li:hover{
     color: white;
     background: rgba(0,0,0,0.7);
+}
+nav :hover{
+    color: white;
 }
 
 footer{
@@ -92,10 +92,3 @@ footer{
     left: 0;
     padding: 1rem;
 }
-
-/*footer
-{
-    text-align: center;
-    background:  url('image/ico_top.png') no-repeat top center, url('image/separateur.png') repeat-x top, url('image/ombre.png') repeat-x top;
-    padding-top: 25px;
-}*/
