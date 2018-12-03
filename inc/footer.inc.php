@@ -29,7 +29,7 @@
             ?>" name="lang">
         </form>
         |
-        <?
+        <?php
         if(isset($_SESSION['admin']) && $_SESSION['admin']==true){
             echo '<form method="POST" action="<?= $_SERVER[\'PHP_SELF\']; ?>">';
             echo '<input type="submit" id="lang" value="';
@@ -38,7 +38,8 @@
             }else{
                 echo 'fr';
             }
-            echo '" name="lang">';
-        </form>
-        }
+            echo '" name="lang"></form>';
+        
+        } 
+        ?>  
     </footer>
