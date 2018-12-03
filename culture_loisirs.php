@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr">
-    <head>
-        <title>Culture et loisirs</title>
-        <link rel="stylesheet" href="css/culture_loisirs.css">
-        <?php include"inc/header.inc.php";?>
-    </head>
+<?php include"inc/header.inc.php";?>
     <body>
         <?php include"inc/nav.inc.php";?>
         <main>

@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr">
-    <head>
-        <title>3Louvre</title>
-        <link rel="stylesheet" href="css/louvre.css">
-         <?php include"inc/header.inc.php";?>
-    </head>
+<?php include"inc/header.inc.php";?>
     <body>
         <?php include"inc/nav.inc.php";?>
         <main id ="LouvreMain">

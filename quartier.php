@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr">
-    <head>
-        <title>Quartier</title>
-        <?php include"inc/header.inc.php";?>
-    </head>
+<?php include"inc/header.inc.php";?>
     <body>
         <?php include"inc/nav.inc.php";?>
         <main>
