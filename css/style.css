@@ -76,7 +76,6 @@ nav #home{
 }
 
 nav li:hover{
-    color: white;
     background: rgba(0,0,0,0.7);
 }
 nav :hover{
